@@ -62,7 +62,7 @@ const Footer = () => {
           </a>
 
           <a
-            href={SOCIAL_LINKS.github}
+           href="https://github.com/oneayush11/school-management-system"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
